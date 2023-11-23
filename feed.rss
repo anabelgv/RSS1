@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+ <title>Games</title>
+ <description>Games online</description>
+ <link>https://anabelgv.github.io/RSS1/</link>
+ <pubDate>Thu, 23 Nov 2023 12:30:03 GMT</pubDate>
+ <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+ <item>
+ <title>Ikariam</title>
+ <link>https://anabelgv.github.io/RSS1/index.html#Ikariam</link>
+ <pubDate>Thu, 23 Nov 2023 12:30:03 GMT</pubDate>
+ <description>Ikariam</description>
+ </item>
+ </channel>
+</rss>
